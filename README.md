@@ -10,7 +10,7 @@
 
   <p>
     🚀 <strong>Live Demo:</strong>
-    <a href="https://todolistcelebalcsi.netlify.app/" target="_blank">
+    <a href="https://celebal-csi-week-01.vercel.app/" target="_blank">
       https://celebal-csi-week-01.vercel.app/
     </a>
   </p>
