@@ -10,8 +10,8 @@
 
   <p>
     🚀 <strong>Live Demo:</strong>
-    <a href="https://celebal-csi-week-01.vercel.app/" target="_blank">
-      https://celebal-csi-week-01.vercel.app/
+    <a href="https://formsandformsvalidation.netlify.app/" target="_blank">
+     https://formsandformsvalidation.netlify.app/
     </a>
   </p>
 
